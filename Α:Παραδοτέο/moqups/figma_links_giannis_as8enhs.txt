@@ -1,0 +1,11 @@
+main screen ασθενής
+https://www.figma.com/file/G39cVBQyBmLV5FGThpAEuO/αρχική-λίστα?type=design&node-id=0-1&mode=design&t=KWTOELxQdCLXRv5L-0
+
+tab ιατρού ασθενή
+https://www.figma.com/file/vY6lQ36zRigbMQbsKFQcBK/tab-ιατρού?type=design&node-id=0-1&mode=design&t=aUIh6jgcvldnhNqs-0
+
+φόρμα αίτησης
+https://www.figma.com/file/WMDWWBXCAHsIiL9uTCS7mk/φορμα-αίτησης?type=design&mode=design&t=lTi3ft7ra8SouzSn-0
+
+send health measurements
+https://www.figma.com/file/AiYPq8ivdk7iIMrrCqYleW/send-health-measurements?type=design&mode=design&t=lTi3ft7ra8SouzSn-0
